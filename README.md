@@ -1,0 +1,1 @@
+Tic Tac Tech is a collaborative project that entails an intelligent robot that can play the famous tic tac toe game by combining various engineering concepts. This repository contains the computer vision algorithm that was used in our project to act as our primary input component. 
